@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "lib": ["es6", "dom"],
+        "allowJs": true,
+        "module": "commonjs",
+    },
+    "include": [
+        "**/**.*"
+    ]
+}
