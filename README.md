@@ -8,3 +8,4 @@ Notes:
 * has spartan design
 * demo app allows defining custom news sources
 * public api used in demo app may sometimes be unresponsive (common problem is 504 error out of nowhere)
+* demo api link: https://www.rockpapershotgun.com/wp-json
